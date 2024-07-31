@@ -50,7 +50,7 @@ async function ReportsData({ searchParams }: { searchParams: any }) {
             className="text-5xl font-bold text-center"
             style={{ color: "#944E63" }}
           >
-            ${totalRevenue}
+            ₱{totalRevenue}
           </h1>
         </div>
       </div>
