@@ -18,7 +18,7 @@ function ProjectTitle() {
         height={60}
         className="rounded-full"
       />
-      <span>Urban Deca Tower</span>
+      <span className="md:block hidden">Urban Deca Tower</span>
     </div>
   );
 }
